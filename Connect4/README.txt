@@ -6,7 +6,6 @@ Interfaces
 Constraints
 Requirements
 Correspondence
-Model View Controller
 makefiles
 Polymorphism 
 
