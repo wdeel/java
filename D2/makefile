@@ -3,3 +3,7 @@ default:
 
 run:
 	java JDBCTest
+
+clean: 
+	rm *.class
+
